@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug 23 10:58:57 2018
-@author: mrestrepo
-@company: Yuxi Global (www.yuxiglobal.com)
-"""
+
 from collections import OrderedDict
 
 class InstFunEvaluator :

@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Aug 14 09:37:38 2018
-@author: mrestrepo
-@company: Yuxi Global (www.yuxiglobal.com)
-"""
-
 import random
 import numpy as np
 from functools import  total_ordering
